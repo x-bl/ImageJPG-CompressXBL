@@ -1,0 +1,7 @@
+image-compressor/
+├── Dockerfile
+├── package.json
+├── index.js
+├── public/
+│   └── index.html
+└── uploads/
